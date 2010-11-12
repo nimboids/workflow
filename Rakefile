@@ -19,7 +19,7 @@ end
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name = "workflow"
+    gemspec.name = "nimboids-workflow"
     gemspec.rubyforge_project = 'workflow'
     gemspec.email = "vladimir@geekq.net"
     gemspec.homepage = "http://www.geekq.net/workflow/"
